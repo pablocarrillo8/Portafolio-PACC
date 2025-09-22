@@ -11,7 +11,7 @@ Aquí encontrarás proyectos, mi CV y publicaciones en el área de **Geofísica 
 - **Assets** → Recursos (CSS, imágenes)
 
 ##  Publicado en GitHub Pages
-[Ver Portafolio en vivo](https://pablocarrillo8.github.io/Portafolio-PACC/)
+[Ver Portafolio en vivo](https://pablocarrillo8.github.io/portafolio-pablo-carrillo/)
 
 ##  Contacto
 - Email: pablocarrillo.geof@gmail.com  
