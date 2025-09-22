@@ -18,7 +18,7 @@ Apasionado por transformar datos en información accionable en ambitos de los ob
 - **Machine Learning:** scikit-learn, TensorFlow, PyTorch  
 - **Data Engineering:** Pandas, Spark, Airflow  
 - **Visualización:** Matplotlib, Seaborn, Power BI, 
-
+- **Redacción de Informes:** Latex 
 
 
 ---
