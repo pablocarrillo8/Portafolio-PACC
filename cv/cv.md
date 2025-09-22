@@ -25,7 +25,7 @@ Apasionado por transformar datos en información accionable en ambitos de los ob
 
 ## 🎓 Educación
 - **Diplomado en Acciones de Cambio Climático** — Universidad de Chile (2024)  
-- **Geofísico** — Universidad de Concepción (2013 – 2019)  
+- **Grado profesional de Geofísico** — Universidad de Concepción (2013 – 2019)  
 
 
 ---
