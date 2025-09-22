@@ -14,7 +14,7 @@ Aquí encontrarás proyectos, mi CV y publicaciones en el área de **Geofísica 
 [Ver Portafolio en vivo](https://pablocarrillo8.github.io/Portafolio-PACC/)
 
 ##  Contacto
-- Email: pablocarrillo.geof@gmail,com  
+- Email: pablocarrillo.geof@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/pablo-carrillo-3329a6214/
 - GitHub: https://github.com/pablocarrillo8
  
